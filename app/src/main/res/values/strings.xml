@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="convert_title">Convert the Temperature</string>
+    <string name="c2f">Celcius to Fahrenheit</string>
+    <string name="f2c">Fahrenheit to Celcius</string>
+    <string name="convert">Convert</string>
+</resources>
